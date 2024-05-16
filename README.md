@@ -2,7 +2,7 @@
 
 **Graph Neural Networks** (GNNs) are a class of neural networks designed to operate on graph-structured data. Unlike traditional neural networks that operate on data in the form of grid (images) or sequential data (text), GNNs are tailored for data represented in the form of graphs, which consist of nodes connected by edges. GNNs are used in predicting nodes, edges, and graph-based tasks.
 
-
+Node classification using Graph Neural Networks (GNNs) is a task where the goal is to predict labels or categories for each node in a graph based on the graph's structure and node attributes. This task is commonly applied to various types of graphs, such as social networks, citation networks, and biological networks, where nodes represent entities and edges represent relationships or interactions between them.
 
 **GNN.py** is used to analyze the properties of each graph used in the dataset and can also know the dataset information
 
